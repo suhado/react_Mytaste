@@ -38,62 +38,62 @@ const Navbar = ({ toggle }) => {
         <IconContext.Provider value={{color: '#fff'}}>
             <Nav scrollNav={scrollNav}>
                 <NavbarContainer>
-                  <NavLogo to='/' onClick={toggleHome}>dolla</NavLogo>
+                  <NavLogo to='/' onClick={toggleHome}>SUHA</NavLogo>
                   <MobileIcon onClick={toggle}>
                     <FaBars />
                   </MobileIcon>
                   <NavMenu>
                     <NavItem>
                       <NavLinks
-                        to="about"
+                        to="phrase"
                         smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
                         offset={-80}
                       >
-                        About
+                        PHRASE
                       </NavLinks>
                     </NavItem>
                     <NavItem>
                       <NavLinks
-                        to="discover"
+                        to="music"
                         smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
                         offset={-80}
                       >
-                        Discover
+                        MUSIC
                       </NavLinks>
                     </NavItem>
                     <NavItem>
                       <NavLinks
-                        to="services"
+                        to="photo"
                         smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
                         offset={-80}
                         >
-                        Services
+                        PHOTO
                       </NavLinks>
                     </NavItem>
                     <NavItem>
                       <NavLinks
-                        to="signup"
+                        to="you"
                         smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
                         offset={-80}
                       >
-                        Sign Up
+                        HOW ABOUT YOU
                       </NavLinks>
                     </NavItem>
                   </NavMenu>
                   <NavBtn>
-                    <NavBtnLink to="/signin">Sign in</NavBtnLink>
+                    <NavBtnLink to="/developer">Developer</NavBtnLink>
                   </NavBtn>
                 </NavbarContainer>
             </Nav>

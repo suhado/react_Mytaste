@@ -5,7 +5,7 @@ export const InfoContainer = styled.div`
   background: ${({lightBg}) => (lightBg ? '#f9f9f9' : '#010606')};
 
   @media screen and (max-width: 768px) {
-    padding: 100px 0;
+    padding: 150px 0;
   }
 `
 
@@ -86,12 +86,14 @@ export const BtnWrap = styled.div`
 `
 
 export const ImgWrap = styled.div`
-  max-width: 555px;
+  max-width: 1000px;
   height: 100%;
+  display: flex;
+  margin: 0 1rem;
 `
 
 export const Img = styled.img`
-  width: 100%;
-  margin: 0 0 10px 0;
+  height: 170px;
+  margin: auto;
   padding-right: 0;
 `

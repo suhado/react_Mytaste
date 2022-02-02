@@ -1,49 +1,68 @@
+import Icon1 from '../../images/해지곳.jpeg';
+import Icon2 from '../../images/천파랑.jpeg';
+import Icon3 from '../../images/거짓의 조금.jpeg';
+import Icon4 from '../../images/살아간다.jpeg';
+import Icon5 from '../../images/bookoflove.jpeg';
+import Icon6 from '../../images/hindenburg lover.jpeg';
+import Icon7 from '../../images/book.svg';
+import Icon8 from '../../images/music.svg';
+import Icon9 from '../../images/photo.svg';
+
 export const homeObjOne = {
-  id: 'about',
+  to: 'you',
+  id: 'phrase',
   lightBg: false,
   lightText: true,
   ligtTextDesc: true,
-  topLine: 'Premium Bank',
-  headline: 'Unlimited Transactions with zero fees',
-  description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
-  buttonLabel: 'Get started',
+  topLine: 'PHRASE SECTION',
+  headline: '간직하고 사는 문장들',
+  description: 'Reading steadily increases my expressive power, and as a result, my world can gradually expand.',
+  buttonLabel: 'How about you?',
   imgStart: false,
-  img: require('../../images/svg-1.png'),
-  alt: 'Car',
+  img1: Icon1,
+  img2: Icon2,
+  img3: Icon3,
+  alt: 'Books',
   dark: true,
   primary: true,
   darkText: false
 };
 
 export const homeObjTwo = {
-  id: 'discover',
+  to: 'you',
+  id: 'music',
   lightBg: true,
   lightText: false,
   ligtTextDesc: false,
-  topLine: 'Unlimited Access',
-  headline: 'Login to your account at any time',
-  description: 'We have you covered no matter where you are located. All you need is an internet connection and a phone or computer',
-  buttonLabel: 'Learn More',
+  topLine: 'MUSIC SECTION',
+  headline: '좋아하는 목소리들',
+  description: 'Some voices make me live. I think the voices that make me live are usually friendly voices.',
+  buttonLabel: 'How about you?',
   imgStart: true,
-  img: require('../../images/svg-1.png'),
-  alt: 'Piggybank',
+  img1: Icon4,
+  img2: Icon5,
+  img3: Icon6,
+  alt: 'Musics',
   dark: false,
   primary: false,
   darkText: true
 };
 
 export const homeObjThree = {
-  id: 'signup',
+  to: 'home',
+  id: 'you',
   lightBg: true,
   lightText: false,
   ligtTextDesc: false,
-  topLine: 'Join our Team',
-  headline: 'Creating an account is extremely easy',
-  description: "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
+  topLine: 'HOW ABOUT YOU',
+  headline: '당신의 취향이 궁금해요',
+  description: "Taste is the direction or tendency in which you want to do it. What is your preference?",
+  buttonLabel: 'Go to Main',
   imgStart: false,
-  img: require('../../images/svg-1.png'),
-  alt: 'Paper',
+  img1: Icon7,
+  img2: Icon8,
+  img3: Icon9,
+  alt: 'You',
   dark: false,
   primary: false,
   darkText: true

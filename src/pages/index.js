@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
 import Footer from '../componenets/Footer/index';
-import HeroSection from '../componenets/HeroSection';
+import MainSection from '../componenets/MainSection';
 import InfoSection from '../componenets/InfoSection';
 import { homeObjOne, homeObjTwo, homeObjThree } from '../componenets/InfoSection/Data';
+import Photo from '../componenets/Photo';
 import Navbar from '../componenets/Navbar'
-import Services from '../componenets/Services';
 import Sidebar from '../componenets/Sidebar';
 
 const Home = () => {
@@ -17,12 +17,12 @@ const Home = () => {
 
   return (
     <>
-      <Sidebar isOpen={isOpen} toggle={toggle} />
+      <Sidebar isOpen={isOpen} toggle={toggle} /> 
       <Navbar toggle={toggle} />
-      <HeroSection />
+      <MainSection />
       <InfoSection {...homeObjOne}/>
       <InfoSection {...homeObjTwo}/>
-      <Services />
+      <Photo />
       <InfoSection {...homeObjThree}/>
       <Footer />
     </>
