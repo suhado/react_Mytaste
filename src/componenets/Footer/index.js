@@ -28,7 +28,7 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to ="/" onClick={toggleHome}>SUHA</SocialLogo>
+            <SocialLogo to ="/react_Mytaste" onClick={toggleHome}>SUHA</SocialLogo>
             <WebsiteRights>
               SUHA © {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>

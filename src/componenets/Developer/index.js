@@ -22,7 +22,7 @@ const Developer = () => {
   return (
     <>
       <Container>
-      <Icon to="/">SUHA</Icon>
+      <Icon to="/react_Mytaste">SUHA</Icon>
       <DeveloperWrap>
         <DeveloperInfo>
           <Img src={me}></Img>
