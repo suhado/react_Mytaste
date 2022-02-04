@@ -1,5 +1,4 @@
 {
-  "homepage": "https://suhado.github.io/react_Mytaste/",
   "name": "website0903",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +42,8 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://suhado.github.io/react_Mytaste/",
+
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
