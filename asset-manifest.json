@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_Mytaste/static/css/main.64b24a9c.chunk.css",
-    "main.js": "/react_Mytaste/static/js/main.6b34078c.chunk.js",
-    "main.js.map": "/react_Mytaste/static/js/main.6b34078c.chunk.js.map",
+    "main.js": "/react_Mytaste/static/js/main.92006442.chunk.js",
+    "main.js.map": "/react_Mytaste/static/js/main.92006442.chunk.js.map",
     "runtime-main.js": "/react_Mytaste/static/js/runtime-main.06773236.js",
     "runtime-main.js.map": "/react_Mytaste/static/js/runtime-main.06773236.js.map",
     "static/js/2.bb4c99ed.chunk.js": "/react_Mytaste/static/js/2.bb4c99ed.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.06773236.js",
     "static/js/2.bb4c99ed.chunk.js",
     "static/css/main.64b24a9c.chunk.css",
-    "static/js/main.6b34078c.chunk.js"
+    "static/js/main.92006442.chunk.js"
   ]
 }
