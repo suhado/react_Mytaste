@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react_Mytaste/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/react_Mytaste/static/js/main.8c299e94.chunk.js",
+    "main.js.map": "/react_Mytaste/static/js/main.8c299e94.chunk.js.map",
+    "runtime-main.js": "/react_Mytaste/static/js/runtime-main.06773236.js",
+    "runtime-main.js.map": "/react_Mytaste/static/js/runtime-main.06773236.js.map",
+    "static/js/2.bb4c99ed.chunk.js": "/react_Mytaste/static/js/2.bb4c99ed.chunk.js",
+    "static/js/2.bb4c99ed.chunk.js.map": "/react_Mytaste/static/js/2.bb4c99ed.chunk.js.map",
+    "index.html": "/react_Mytaste/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/react_Mytaste/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.bb4c99ed.chunk.js.LICENSE.txt": "/react_Mytaste/static/js/2.bb4c99ed.chunk.js.LICENSE.txt",
+    "static/media/1.ad1d1f05.png": "/react_Mytaste/static/media/1.ad1d1f05.png",
+    "static/media/2.4c177e6c.png": "/react_Mytaste/static/media/2.4c177e6c.png",
+    "static/media/3.497c5e61.png": "/react_Mytaste/static/media/3.497c5e61.png",
+    "static/media/book.3979c98f.svg": "/react_Mytaste/static/media/book.3979c98f.svg",
+    "static/media/bookoflove.4a17dfa1.jpeg": "/react_Mytaste/static/media/bookoflove.4a17dfa1.jpeg",
+    "static/media/hindenburg lover.115f66d6.jpeg": "/react_Mytaste/static/media/hindenburg lover.115f66d6.jpeg",
+    "static/media/me.09c0cfcc.PNG": "/react_Mytaste/static/media/me.09c0cfcc.PNG",
+    "static/media/music.680e9bd6.svg": "/react_Mytaste/static/media/music.680e9bd6.svg",
+    "static/media/photo.8048b0dd.svg": "/react_Mytaste/static/media/photo.8048b0dd.svg",
+    "static/media/video.ea515ff6.mp4": "/react_Mytaste/static/media/video.ea515ff6.mp4",
+    "static/media/거짓의 조금.22ef432e.jpeg": "/react_Mytaste/static/media/거짓의 조금.22ef432e.jpeg",
+    "static/media/살아간다.02281595.jpeg": "/react_Mytaste/static/media/살아간다.02281595.jpeg",
+    "static/media/천파랑.9a58cb39.jpeg": "/react_Mytaste/static/media/천파랑.9a58cb39.jpeg",
+    "static/media/해지곳.5dd559b8.jpeg": "/react_Mytaste/static/media/해지곳.5dd559b8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06773236.js",
+    "static/js/2.bb4c99ed.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.8c299e94.chunk.js"
+  ]
+}
