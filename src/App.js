@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" component={Home} exact />
+        <Route path="/react_Mytaste" component={Home} exact />
         <Route path="/developer" component={DeveloperPage} exact />
       </Switch>
     </Router>
