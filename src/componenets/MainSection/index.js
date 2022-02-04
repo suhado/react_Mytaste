@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Video from 'src/videos/video.mp4';
+import Video from './../../videos/video.mp4';
 import {
     MainContainer,
     MainBg,
