@@ -5,11 +5,11 @@ import Icon3 from '../../images/3.png';
 import {
     PhotoContainer,
     PhotoH1,
+    PhotoP,
     PhotoWrapper,
     PhotoCard,
     PhotoIcon,
-    PhotoH2,
-    PhotoP
+    PhotoH2
 } from './PhotoElements';
 
 const Photo = () => {
